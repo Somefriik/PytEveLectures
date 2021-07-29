@@ -1,1 +1,3 @@
 # PytEveLectures
+
+for lesson purposes
